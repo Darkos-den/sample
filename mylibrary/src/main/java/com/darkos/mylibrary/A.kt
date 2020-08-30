@@ -1,5 +1,5 @@
 package com.darkos.mylibrary
 
 class A {
-    val x = 1
+    val x = 2
 }
